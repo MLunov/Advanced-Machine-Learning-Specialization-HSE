@@ -7,9 +7,9 @@
 Course 1 of 7 in the [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 ***
 ## Syllabus
-1. [Week 1: Introduction to optimization]()
-2. [Week 2: Introduction to neural networks]()
-3. [Week 3: Deep Learning for images]()
-4. [Week 4: Unsupervised representation learning]()
-5. [Week 5: Deep learning for sequences]()
-6. [Week 6: Final Project]()
+1. [Week 1: Introduction to optimization](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1/week-1)
+2. [Week 2: Introduction to neural networks](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1/week-2)
+3. [Week 3: Deep Learning for images](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1/week-3)
+4. [Week 4: Unsupervised representation learning](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1/week-4)
+5. [Week 5: Deep learning for sequences](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1/week-5)
+6. [Week 6: Final Project](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1/week-6)
