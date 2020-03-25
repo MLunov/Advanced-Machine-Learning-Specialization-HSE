@@ -5,7 +5,7 @@ This repository contains materials and solutions for [Advanced Machine Learning 
 *** 
 **Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something**.
 *** 
-Specialization consists of 6 courses:
+Specialization consists of 7 courses:
 1. [Introduction to Deep Learning](https://github.com/MLunov/Advanced-Machine-Learning-Specialization-HSE/tree/master/course-1)
 2. How to Win a Data Science Competition: Learn from Top Kagglers[]()
 3. Bayesian Methods for Machine Learning[]()
